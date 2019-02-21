@@ -1,0 +1,70 @@
+/* Убираем отступы со всех сторон */
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/* Задаём задний цвет фона */
+body {
+	background: #d1e4ff;
+}
+
+
+/* Центрируем блок по центру */
+.content {
+	width: 980px;
+	background-color: #fff;
+	margin: 0 auto;
+}
+
+/* Отступы для центрального блока с котентом */
+div {
+	margin: 0 30px;
+}
+
+/* Стилизуем заголовки */
+h1 {
+	padding-top: 78px;
+}
+
+h2 {
+	padding-top: 58px;
+}
+
+h3,
+h4 {
+	padding-top: 48px;
+}
+
+h5 {
+	padding-top: 36px;
+}
+
+h6 {
+	padding-top: 26px;
+}
+
+/* Стилизация абзаца */
+
+p {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	padding-top: 28px;
+}
+
+.headline {
+	font-family: Arial, sans-serif;
+	font-size: 36px;
+	padding-top: 56px;
+}
+
+code {
+	background-color: #f0e6d6;
+	border-radius: 2px;
+}
+
+.text {
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	margin: 0;
+}
