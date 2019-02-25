@@ -68,3 +68,40 @@ code {
 	font-size: 16px;
 	margin: 0;
 }
+
+.assingment {
+	background-color: #ff0;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.del {
+	text-decoration: line-through;
+}
+
+.upline {
+	vertical-align: super;
+	font-size: 10px;
+}
+
+.dwnline {
+	vertical-align: sub;
+	font-size: 10px;
+}
+
+.wrapping {
+	margin: 0;
+	padding: 0;
+	width: 890px;
+	height: 62px;
+	background-color: #eadcea;
+	border-left-style: solid;
+	border-left-color: #b496b4;
+	border-left-width: 4px;
+}
+
+.text {
+	padding: 12px 16px;
+}
